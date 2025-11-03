@@ -1,4 +1,4 @@
-export default function AboutPage() {
+export default function Home() {
   return (
     <section className="flex flex-col items-center text-center justify-center min-h-[80vh]">
       <h1 className="text-5xl font-bold mb-4">Cinematographer Portfolio</h1>
